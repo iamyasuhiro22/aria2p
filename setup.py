@@ -9,6 +9,7 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="johndoe-aria2p",
-    version="0.11.2",
+    Name: johndoe-aria2p,
+    Metadata-Version: 2.3,
+    Version: 0.11.2,
 )
